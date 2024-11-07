@@ -1,1 +1,17 @@
-Goal was to make my own website using html and css, my website is focused on the books's topic.
+🌐 HTML Book Themed Website 📚
+This project is a University project for the Hypertext & Hypermedia course. It aims to create a personal website focused on the books theme using HTML and CSS.
+
+🚀 Features:
+Custom Layout: Simple yet effective website design with HTML and CSS.
+Book-Themed Content: The website is centered around books, ideal for showcasing book collections, recommendations, or reviews.
+Responsive Design: Optimized for different screen sizes.
+
+📦 Installation
+Clone the repository:
+
+git clone https://github.com/MaksPek03/HTMLPage.git
+cd HTMLPage
+
+Open the Website:
+After cloning, simply open the index.html file in any browser to view the website.
+open index.html  # Or double-click the file to open in your browser
